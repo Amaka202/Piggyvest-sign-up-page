@@ -1,0 +1,103 @@
+body {
+    background-color: #ADD8E6;
+    width: 980px;
+    margin-left : auto;
+    margin-right : auto;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+    font-size : 13px;
+    color : #404040; 
+    padding : 10px;
+    padding-top : 0;
+    font-weight: 700;
+}
+
+.logo {
+    background-color: #ADD8E6;
+    position: absolute; top: 5%; left: 42%; z-index: 2;
+    height : 50px;
+    float : left;
+    margin-top : 10px;
+    margin-right : 30px;
+    
+}
+
+
+.main {
+    background-color: white;
+    margin-top: 13%;
+    margin-left: 25%;
+    border-radius: 20px 20px 20px 0px;
+    padding: 20px;
+    width: 400px;
+    height: 850px;
+
+}
+
+.top{
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+.heading {
+    color: blue;
+    margin-bottom: 0;
+}
+
+.main p{
+    font-weight: 50;
+    margin-top: ;
+}
+
+.form {
+    margin-top: 0%;
+    margin-left: 5%;
+    font-size: 11px;
+}
+.info {
+    width: 350px;
+    height: 50px;
+    background-color: whitesmoke;
+    border: 0;
+    border-radius: 5px;
+   
+}
+
+.info2 {
+    background-color: white;
+    width: 350px;
+    height: 300px;
+
+}
+
+
+
+
+.button {
+         background-color: #1c87c9;
+         border: none;
+         color: white;
+         padding: 20px 34px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         border-radius: 20px 20px 20px 0px;
+         width: 300px;
+         height: 18px;
+         }
+.button:hover {
+    color: rgb(221, 166, 221);
+}
+.link {
+    text-decoration: none;
+    color: white;
+    margin-top: 13%;
+    margin-left: 40%;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.link:hover{color: gray;}
